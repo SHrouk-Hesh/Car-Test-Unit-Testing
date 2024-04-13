@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ivUBKxDUYevTY4HY6SvkK+ZeSI0g0iz4eTJv+RsqQekJ2mLlltd843Fkj6EwQRZNXNEoDXatwZIFtb7MqEmsmw==",
+  "success": true,
+  "projectFilePath": "D:\\ITI\\ITI FULL STACK WEB DEVELOPER .NET\\UNITTESTING\\SHROUK HESHAM_UNIT TESTING\\CarApp_Test\\CarApp_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TESLA Computers\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\TESLA Computers\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\TESLA Computers\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\TESLA Computers\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "C:\\Users\\TESLA Computers\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\TESLA Computers\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
+    "C:\\Users\\TESLA Computers\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512",
+    "C:\\Users\\TESLA Computers\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\TESLA Computers\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\TESLA Computers\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

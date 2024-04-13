@@ -1,0 +1,42 @@
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.exe
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.deps.json
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.runtimeconfig.json
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.dll
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.pdb
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.dll
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\refint\UnitTest.dll
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.pdb
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\UnitTest\UnitTest\obj\Debug\net8.0\ref\UnitTest.dll
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.exe
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.deps.json
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.runtimeconfig.json
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.dll
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.pdb
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.dll
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\obj\Debug\net8.0\refint\UnitTest.dll
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.pdb
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Omar Osama Mohamed Saber\UnitTest\UnitTest\obj\Debug\net8.0\ref\UnitTest.dll
+F:\ITI\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.exe
+F:\ITI\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.deps.json
+F:\ITI\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.runtimeconfig.json
+F:\ITI\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.dll
+F:\ITI\UnitTest\UnitTest\bin\Debug\net8.0\UnitTest.pdb
+F:\ITI\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfoInputs.cache
+F:\ITI\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfo.cs
+F:\ITI\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.csproj.CoreCompileInputs.cache
+F:\ITI\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.dll
+F:\ITI\UnitTest\UnitTest\obj\Debug\net8.0\refint\UnitTest.dll
+F:\ITI\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.pdb
+F:\ITI\UnitTest\UnitTest\obj\Debug\net8.0\UnitTest.genruntimeconfig.cache
+F:\ITI\UnitTest\UnitTest\obj\Debug\net8.0\ref\UnitTest.dll
